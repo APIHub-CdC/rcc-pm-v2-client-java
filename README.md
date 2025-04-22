@@ -221,7 +221,7 @@ public class ApiTest {
             domicilio.setColoniaPoblacion("LAS PALMAS");
             domicilio.setDelegacionMunicipio("CUAJIMALPA DE MORELOS");
             domicilio.setCiudad("CUAJIMALPA DE MORELOS");
-            domicilio.setEstado(CatalogoEstados.DF);
+            domicilio.setEstado(CatalogoEstados.CDMX);
             domicilio.setCP("05210");
             domicilio.setPais(CatalogoPais.MX);
 
